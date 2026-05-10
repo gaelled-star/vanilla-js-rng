@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 3em;
+    border-radius: 5px;
+    padding: 5px 25px ;
+    margin: 30px ;
+    background-color: rgb(167, 109, 71);
+    color: white;
+    border-color:  rgb(167, 109, 71) ;
+}
+
+.myLabels{
+    font-size: 3em;
+    color: rgb(167, 109, 71); ;
+}
